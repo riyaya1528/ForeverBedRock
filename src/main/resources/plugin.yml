@@ -1,0 +1,4 @@
+name: ForeverBedRock
+version: '${project.version}'
+main: riyaya1528.paper.foreverbedrock.ForeverBedRock
+api-version: 1.17
